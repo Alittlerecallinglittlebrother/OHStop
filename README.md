@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/Alittlerecallinglittlebrother/OHStop/main/repo
 
 ## 当前版本
 
-`1.0.19.8`
+`1.0.19.9`
 
 ## 主要功能
 
