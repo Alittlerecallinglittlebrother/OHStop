@@ -1,15 +1,13 @@
-[
-  {
-    "Author": "Akl",
-    "Name": "Slidecasting goat",
-    "InternalName": "OHStop",
-    "AssemblyVersion": "1.0.17.4",
-    "Description": "读条时帮你稳住脚步，快读完时自动放行；支持按住快捷键临时移动、自动奔跑保护和状态浮窗。",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 15,
-    "Punchline": "滑步高手",
-    "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/OHStop",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/OHStop/main/OHStop.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/OHStop/main/OHStop.zip"
-  }
-]
+{
+  "Author": "Akl",
+  "Name": "Slidecasting goat",
+  "InternalName": "OHStop",
+  "AssemblyVersion": "1.0.17.4",
+  "Description": "读条时帮你稳住脚步，快读完时自动放行；支持按住快捷键临时移动、自动奔跑保护和状态浮窗。",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 15,
+  "Punchline": "滑步高手",
+  "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/OHStop",
+  "DownloadLinkInstall": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/OHStop/main/OHStop.zip",
+  "DownloadLinkUpdate": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/OHStop/main/OHStop.zip"
+}
