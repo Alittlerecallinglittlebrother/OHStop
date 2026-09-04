@@ -1,6 +1,6 @@
 # Slidecasting goat
 
-Slidecasting goat（OHStop）是一个 DalamudCN 滑步辅助插件：在长读条技能的前段拦截移动输入，进入滑步窗口后恢复行动，并支持按住快捷键临时放行。
+Slidecasting goat（OHStop）会在读条时帮你稳住脚步，快读完时自动放行；也支持按住快捷键临时移动、自动奔跑保护和状态浮窗。
 
 ## 添加独立插件仓库
 
@@ -14,7 +14,7 @@ https://raw.githubusercontent.com/Alittlerecallinglittlebrother/OHStop/main/repo
 
 ## 当前版本
 
-`1.0.17.3`
+`1.0.17.4`
 
 ## 主要功能
 
